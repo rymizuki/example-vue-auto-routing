@@ -1,0 +1,23 @@
+{
+  "name": "example-vue-auto-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.18",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "vue": "^2.5.18",
+    "vue-auto-routing": "^0.3.0",
+    "vue-router": "^3.0.2",
+    "vue-router-layout": "^0.1.3"
+  }
+}
